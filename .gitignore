@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+
+# Environment secrets and dependencies
+.env
+**/.env
+node_modules/
+**/node_modules/
